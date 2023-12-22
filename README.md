@@ -2,7 +2,7 @@
 
 A live installer for the Debian edition. 
 
-This is a modifcation of Linux Mint's Live Installer.
+This is a modifcation of Linux Mint's [Live Installer](https://github.com/linuxmint/live-installer).
 
 ## Slideshow
 The Slideshow is located at usr/share/live-installer/slideshow/

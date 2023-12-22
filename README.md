@@ -7,13 +7,13 @@ The Slideshow is located at usr/share/live-installer/slideshow/
 
 We have 7 pages in the slideshow with 7 Screenshots needed:
 
-- welcome.html
-- about.html
-- appcenter.html
-- documentation.html
-- web.html
-- community.html
-- donations.html
+- welcome
+- about
+- appcenter
+- documentation
+- web
+- community
+- donations
 
 The order these pages are displayed is set by the file: usr/share/live-installer/slideshow/index.html
 
